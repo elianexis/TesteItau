@@ -1,0 +1,14 @@
+C:\Users\elian\source\repos\TransacaoFinanceiraP\TransacaoFin\bin\Debug\netcoreapp3.1\TransacaoFin.exe
+C:\Users\elian\source\repos\TransacaoFinanceiraP\TransacaoFin\bin\Debug\netcoreapp3.1\TransacaoFin.deps.json
+C:\Users\elian\source\repos\TransacaoFinanceiraP\TransacaoFin\bin\Debug\netcoreapp3.1\TransacaoFin.runtimeconfig.json
+C:\Users\elian\source\repos\TransacaoFinanceiraP\TransacaoFin\bin\Debug\netcoreapp3.1\TransacaoFin.runtimeconfig.dev.json
+C:\Users\elian\source\repos\TransacaoFinanceiraP\TransacaoFin\bin\Debug\netcoreapp3.1\TransacaoFin.dll
+C:\Users\elian\source\repos\TransacaoFinanceiraP\TransacaoFin\bin\Debug\netcoreapp3.1\TransacaoFin.pdb
+C:\Users\elian\source\repos\TransacaoFinanceiraP\TransacaoFin\obj\Debug\netcoreapp3.1\TransacaoFin.csproj.AssemblyReference.cache
+C:\Users\elian\source\repos\TransacaoFinanceiraP\TransacaoFin\obj\Debug\netcoreapp3.1\TransacaoFin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elian\source\repos\TransacaoFinanceiraP\TransacaoFin\obj\Debug\netcoreapp3.1\TransacaoFin.AssemblyInfoInputs.cache
+C:\Users\elian\source\repos\TransacaoFinanceiraP\TransacaoFin\obj\Debug\netcoreapp3.1\TransacaoFin.AssemblyInfo.cs
+C:\Users\elian\source\repos\TransacaoFinanceiraP\TransacaoFin\obj\Debug\netcoreapp3.1\TransacaoFin.csproj.CoreCompileInputs.cache
+C:\Users\elian\source\repos\TransacaoFinanceiraP\TransacaoFin\obj\Debug\netcoreapp3.1\TransacaoFin.dll
+C:\Users\elian\source\repos\TransacaoFinanceiraP\TransacaoFin\obj\Debug\netcoreapp3.1\TransacaoFin.pdb
+C:\Users\elian\source\repos\TransacaoFinanceiraP\TransacaoFin\obj\Debug\netcoreapp3.1\TransacaoFin.genruntimeconfig.cache

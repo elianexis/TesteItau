@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TransacaoFinanceira/1.0.0": {
+        "dependencies": {
+          "Microsoft.TestPlatform": "17.8.0"
+        },
+        "runtime": {
+          "TransacaoFinanceira.dll": {}
+        }
+      },
+      "Microsoft.TestPlatform/17.8.0": {}
+    }
+  },
+  "libraries": {
+    "TransacaoFinanceira/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.TestPlatform/17.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RzE0sObnWVpybRFsCWDZZzM2x/G/Gsqqi59YAsHisR4+9fljqR5LXX6ImN8MLaCN8mMEo/4LKLz2vh3OiEbvRQ==",
+      "path": "microsoft.testplatform/17.8.0",
+      "hashPath": "microsoft.testplatform.17.8.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rODRJMUqgpme4PSFQxCCb7FffP4w9nBCGkz9mjz6tpkafdULcoLUSWXbb3ra0l0BjexBu3V/L1irymb1bqFWtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elian\\source\\repos\\TransacaoFinanceiraP\\TransacaoFin\\TransacaoFinanceira.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elian\\.nuget\\packages\\microsoft.testplatform\\17.8.0\\microsoft.testplatform.17.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
